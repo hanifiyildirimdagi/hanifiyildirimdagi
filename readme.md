@@ -26,7 +26,7 @@
 
 
 
-<h2 align="center">Skils</h2>
+<h2 align="center">Skills</h2>
 
 <div style="display:flex; flex-wrap:wrap; width:100%; justify-content:center; width:100%;">
 
