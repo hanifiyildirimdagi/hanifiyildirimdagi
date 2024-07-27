@@ -15,16 +15,6 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hanifiyildirimdagi&label=Profile%20views&color=0e75b6&style=flat" alt="hanifiyildirimdagi" /> 
-</p>
-<p align="center"> 
-    <a 
-        href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hanifiyildirimdagi" alt="hanifiyildirimdagi" />
-    </a> 
-</p>
-
-
 
 <h2 align="center">Skills</h2>
 
@@ -87,10 +77,11 @@
 
 ---
 
-<div style="width:100%; display:flex; align-items:center;">
-    <img align="left" width="40%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanifiyildirimdagi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="hanifiyildirimdagi" />
-
-
-<img align="center" width="55%" height="260px" src="https://github-readme-stats.vercel.app/api?username=hanifiyildirimdagi&show_icons=true&locale=en&theme=onedark" alt="hanifiyildirimdagi" />
-
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hanifiyildirimdagi&label=Profile%20views&color=0e75b6&style=flat" alt="hanifiyildirimdagi" /> 
+</p>
+<p align="center"> 
+    <a 
+        href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hanifiyildirimdagi" alt="hanifiyildirimdagi" />
+    </a> 
+</p>
